@@ -1,4 +1,4 @@
-# shree_pharmacy
+# IgmiLeadConsutancy
 
 A new Flutter application.
 
